@@ -1,0 +1,20 @@
+# Documentacion
+Documentacion/
+Documentación/
+*.pdf
+*.mp4
+*.docx
+*.pptx
+*.xlsx
+
+# Python & Jupyter
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+
+# IDEs & OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
