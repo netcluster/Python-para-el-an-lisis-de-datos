@@ -5,7 +5,6 @@ Documentación/
 *.mp4
 *.docx
 *.pptx
-*.xlsx
 
 # Python & Jupyter
 __pycache__/
