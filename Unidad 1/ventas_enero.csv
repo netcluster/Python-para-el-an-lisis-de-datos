@@ -1,0 +1,201 @@
+id_venta,fecha,producto,categoria,cantidad,precio_unitario,monto_total,region,vendedor
+1139,2024-01-01,Tablet Samsung,Computadoras,1,431.35,431.35,Oeste,Juan Pérez
+1048,2024-01-01,Disco SSD 1TB,Almacenamiento,5,125.12,625.6,Oeste,María López
+1116,2024-01-01,Hub USB-C,Accesorios,7,35.32,247.24,Norte,Ana García
+1114,2024-01-01,Disco SSD 1TB,Almacenamiento,6,122.03,732.18,Oeste,Pedro Sánchez
+1030,2024-01-02,"Monitor LG 27""",Monitores,1,335.5,335.5,Oeste,Ana García
+1175,2024-01-02,Memoria RAM 16GB,Componentes,2,73.61,147.22,Este,Ana García
+1037,2024-01-03,Hub USB-C,Accesorios,1,36.26,36.26,Norte,Lucía Rodríguez
+1046,2024-01-03,Hub USB-C,Accesorios,4,33.83,135.32,Oeste,Juan Pérez
+1095,2024-01-03,Micrófono USB,Audio,4,55.95,223.8,Sur,Carlos Méndez
+1094,2024-01-03,Webcam HD,Accesorios,9,45.74,411.66,Centro,María López
+1182,2024-01-03,"Monitor LG 27""",Monitores,1,348.65,348.65,Norte,Pedro Sánchez
+1066,2024-01-03,Router WiFi,Redes,7,92.96,650.72,Norte,Ana García
+1199,2024-01-03,"Monitor LG 27""",Monitores,3,367.41,1102.23,Norte,Juan Pérez
+1010,2024-01-03,Micrófono USB,Audio,4,57.02,228.08,Oeste,María López
+1160,2024-01-03,Teclado Mecánico,Accesorios,1,84.22,84.22,Centro,Juan Pérez
+1197,2024-01-03,Micrófono USB,Audio,6,56.94,341.64,Centro,Juan Pérez
+1063,2024-01-04,Hub USB-C,Accesorios,3,34.18,102.54,Norte,Pedro Sánchez
+1035,2024-01-04,"Monitor LG 27""",Monitores,2,334.74,669.48,Norte,Lucía Rodríguez
+1059,2024-01-04,Mouse Logitech,Accesorios,9,24.77,222.93,Este,Carlos Méndez
+1069,2024-01-04,Mouse Logitech,Accesorios,3,25.62,76.86,Este,Lucía Rodríguez
+1054,2024-01-04,Hub USB-C,Accesorios,10,34.11,341.1,Centro,Ana García
+1145,2024-01-04,Cable HDMI,Accesorios,9,13.06,117.54,Sur,Carlos Méndez
+1006,2024-01-04,Mouse Logitech,Accesorios,7,24.47,171.29,Este,Lucía Rodríguez
+1155,2024-01-04,Tablet Samsung,Computadoras,2,454.78,909.56,Centro,Carlos Méndez
+1126,2024-01-04,Impresora HP,Impresoras,1,187.72,187.72,Centro,Pedro Sánchez
+1001,2024-01-05,Cable HDMI,Accesorios,2,12.72,25.44,Centro,Ana García
+1096,2024-01-05,Laptop Dell XPS,Computadoras,1,1169.38,1169.38,Oeste,Lucía Rodríguez
+1154,2024-01-05,Mousepad Gaming,Accesorios,10,18.81,188.1,Norte,Carlos Méndez
+1032,2024-01-06,Webcam HD,Accesorios,9,46.68,420.12,Oeste,Carlos Méndez
+1044,2024-01-06,Webcam HD,Accesorios,8,43.87,350.96,Norte,Juan Pérez
+1061,2024-01-06,Memoria RAM 16GB,Componentes,9,76.53,688.77,Centro,Pedro Sánchez
+1165,2024-01-06,Mousepad Gaming,Accesorios,5,18.17,90.85,Centro,María López
+1137,2024-01-06,Memoria RAM 16GB,Componentes,4,73.91,295.64,Este,María López
+1115,2024-01-06,Micrófono USB,Audio,8,57.31,458.48,Centro,Lucía Rodríguez
+1021,2024-01-06,Mousepad Gaming,Accesorios,7,18.17,127.19,Oeste,Juan Pérez
+1159,2024-01-07,Webcam HD,Accesorios,2,43.46,86.92,Sur,Lucía Rodríguez
+1050,2024-01-07,Webcam HD,Accesorios,4,47.11,188.44,Centro,Pedro Sánchez
+1146,2024-01-07,Cable HDMI,Accesorios,8,12.22,97.76,Centro,Lucía Rodríguez
+1047,2024-01-07,Micrófono USB,Audio,7,57.21,400.47,Sur,Juan Pérez
+1100,2024-01-08,Teclado Mecánico,Accesorios,9,84.7,762.3,Centro,Carlos Méndez
+1169,2024-01-08,Router WiFi,Redes,10,90.78,907.8,Norte,Pedro Sánchez
+1072,2024-01-08,Router WiFi,Redes,2,88.68,177.36,Centro,Juan Pérez
+1038,2024-01-08,Webcam HD,Accesorios,8,43.71,349.68,Sur,Pedro Sánchez
+1004,2024-01-08,Memoria RAM 16GB,Componentes,10,73.34,733.4,Norte,Carlos Méndez
+1123,2024-01-08,Teclado Mecánico,Accesorios,8,86.44,691.52,Centro,Carlos Méndez
+1043,2024-01-08,"Monitor LG 27""",Monitores,2,351.27,702.54,Sur,Juan Pérez
+1142,2024-01-08,Webcam HD,Accesorios,10,44.41,444.1,Centro,Lucía Rodríguez
+1118,2024-01-09,Disco SSD 1TB,Almacenamiento,6,116.54,699.24,Este,María López
+1057,2024-01-09,Disco SSD 1TB,Almacenamiento,3,122.06,366.18,Este,Juan Pérez
+1138,2024-01-09,Hub USB-C,Accesorios,10,35.7,357.0,Este,Lucía Rodríguez
+1007,2024-01-09,Mousepad Gaming,Accesorios,1,18.41,18.41,Centro,Ana García
+1179,2024-01-09,Tablet Samsung,Computadoras,1,469.25,469.25,Oeste,Pedro Sánchez
+1149,2024-01-09,Laptop Dell XPS,Computadoras,1,1206.4,1206.4,Sur,Pedro Sánchez
+1152,2024-01-09,Micrófono USB,Audio,8,52.88,423.04,Norte,Juan Pérez
+1135,2024-01-09,Hub USB-C,Accesorios,8,34.1,272.8,Oeste,Lucía Rodríguez
+1105,2024-01-09,Mousepad Gaming,Accesorios,9,17.97,161.73,Sur,María López
+1078,2024-01-10,Micrófono USB,Audio,4,53.48,213.92,Sur,Juan Pérez
+1144,2024-01-10,Webcam HD,Accesorios,4,43.29,173.16,Sur,María López
+1161,2024-01-10,Laptop Dell XPS,Computadoras,1,1174.57,1174.57,Este,Pedro Sánchez
+1151,2024-01-10,Memoria RAM 16GB,Componentes,8,74.55,596.4,Sur,Ana García
+1079,2024-01-11,Webcam HD,Accesorios,2,47.1,94.2,Este,María López
+1067,2024-01-11,Mousepad Gaming,Accesorios,3,18.25,54.75,Este,Carlos Méndez
+1065,2024-01-11,"Monitor LG 27""",Monitores,3,350.19,1050.57,Este,Ana García
+1058,2024-01-11,Hub USB-C,Accesorios,2,33.28,66.56,Centro,Lucía Rodríguez
+1187,2024-01-11,Hub USB-C,Accesorios,9,34.19,307.71,Norte,María López
+1056,2024-01-11,Hub USB-C,Accesorios,5,33.96,169.8,Este,Carlos Méndez
+1148,2024-01-12,Teclado Mecánico,Accesorios,5,80.87,404.35,Centro,Carlos Méndez
+1143,2024-01-12,Disco SSD 1TB,Almacenamiento,9,117.97,1061.73,Oeste,María López
+1178,2024-01-12,Impresora HP,Impresoras,8,182.26,1458.08,Norte,Carlos Méndez
+1130,2024-01-12,Tablet Samsung,Computadoras,2,457.27,914.54,Norte,Lucía Rodríguez
+1190,2024-01-13,Memoria RAM 16GB,Componentes,6,77.77,466.62,Sur,Lucía Rodríguez
+1089,2024-01-13,Cable HDMI,Accesorios,5,12.57,62.85,Sur,Juan Pérez
+1084,2024-01-13,Hub USB-C,Accesorios,10,33.92,339.2,Norte,Pedro Sánchez
+1111,2024-01-13,Memoria RAM 16GB,Componentes,1,78.32,78.32,Este,Juan Pérez
+1191,2024-01-13,"Monitor LG 27""",Monitores,4,334.03,1336.12,Oeste,Pedro Sánchez
+1172,2024-01-14,Router WiFi,Redes,8,94.22,753.76,Oeste,María López
+1132,2024-01-14,Auriculares Bluetooth,Audio,8,66.35,530.8,Oeste,Carlos Méndez
+1041,2024-01-14,Disco SSD 1TB,Almacenamiento,8,124.37,994.96,Norte,Pedro Sánchez
+1174,2024-01-14,Cable HDMI,Accesorios,8,12.24,97.92,Oeste,Lucía Rodríguez
+1173,2024-01-14,Auriculares Bluetooth,Audio,6,66.11,396.66,Sur,María López
+1085,2024-01-14,Laptop Dell XPS,Computadoras,3,1251.07,3753.21,Centro,Pedro Sánchez
+1049,2024-01-14,Cable HDMI,Accesorios,9,12.7,114.3,Oeste,Carlos Méndez
+1093,2024-01-15,Router WiFi,Redes,4,90.1,360.4,Sur,Pedro Sánchez
+1106,2024-01-15,Mouse Logitech,Accesorios,5,24.82,124.1,Este,María López
+1134,2024-01-15,Disco SSD 1TB,Almacenamiento,10,117.22,1172.2,Sur,Ana García
+1124,2024-01-15,Cable HDMI,Accesorios,5,12.83,64.15,Sur,Lucía Rodríguez
+1011,2024-01-15,Router WiFi,Redes,6,86.96,521.76,Este,Carlos Méndez
+1189,2024-01-15,Tablet Samsung,Computadoras,2,443.03,886.06,Centro,Lucía Rodríguez
+1185,2024-01-15,Tablet Samsung,Computadoras,1,444.76,444.76,Centro,Lucía Rodríguez
+1025,2024-01-15,Laptop Dell XPS,Computadoras,3,1245.1,3735.3,Este,Lucía Rodríguez
+1166,2024-01-15,Mouse Logitech,Accesorios,8,25.98,207.84,Oeste,María López
+1153,2024-01-16,Mouse Logitech,Accesorios,10,25.83,258.3,Norte,Carlos Méndez
+1196,2024-01-16,Mousepad Gaming,Accesorios,5,17.71,88.55,Oeste,Pedro Sánchez
+1180,2024-01-16,Mouse Logitech,Accesorios,1,26.71,26.71,Centro,Carlos Méndez
+1020,2024-01-16,Mouse Logitech,Accesorios,1,26.42,26.42,Sur,Pedro Sánchez
+1052,2024-01-16,Tablet Samsung,Computadoras,3,434.58,1303.74,Centro,Ana García
+1029,2024-01-16,Laptop Dell XPS,Computadoras,1,1251.49,1251.49,Este,Carlos Méndez
+1003,2024-01-17,Impresora HP,Impresoras,1,181.1,181.1,Centro,Juan Pérez
+1171,2024-01-17,Router WiFi,Redes,8,93.74,749.92,Sur,Lucía Rodríguez
+1102,2024-01-17,Tablet Samsung,Computadoras,3,441.78,1325.34,Oeste,Lucía Rodríguez
+1027,2024-01-17,Impresora HP,Impresoras,4,173.75,695.0,Sur,Lucía Rodríguez
+1062,2024-01-17,Laptop Dell XPS,Computadoras,3,1238.05,3714.15,Este,Pedro Sánchez
+1167,2024-01-17,Tablet Samsung,Computadoras,2,447.2,894.4,Centro,Ana García
+1070,2024-01-18,Teclado Mecánico,Accesorios,7,81.83,572.81,Este,María López
+1064,2024-01-18,Teclado Mecánico,Accesorios,5,83.14,415.7,Sur,Pedro Sánchez
+1109,2024-01-18,Memoria RAM 16GB,Componentes,7,71.72,502.04,Oeste,Juan Pérez
+1036,2024-01-18,"Monitor LG 27""",Monitores,2,332.75,665.5,Norte,Carlos Méndez
+1091,2024-01-18,Micrófono USB,Audio,1,53.92,53.92,Sur,Juan Pérez
+1051,2024-01-18,Laptop Dell XPS,Computadoras,3,1177.63,3532.89,Norte,Lucía Rodríguez
+1140,2024-01-18,Mousepad Gaming,Accesorios,4,18.34,73.36,Oeste,Juan Pérez
+1082,2024-01-19,Webcam HD,Accesorios,1,43.24,43.24,Oeste,María López
+1002,2024-01-19,Disco SSD 1TB,Almacenamiento,1,114.36,114.36,Sur,Carlos Méndez
+1128,2024-01-19,Cable HDMI,Accesorios,4,12.0,48.0,Este,Pedro Sánchez
+1163,2024-01-19,Router WiFi,Redes,4,89.33,357.32,Centro,Carlos Méndez
+1009,2024-01-19,"Monitor LG 27""",Monitores,1,334.1,334.1,Sur,María López
+1125,2024-01-20,Cable HDMI,Accesorios,2,12.85,25.7,Sur,María López
+1129,2024-01-20,Mousepad Gaming,Accesorios,2,18.53,37.06,Centro,Ana García
+1147,2024-01-20,Webcam HD,Accesorios,2,46.5,93.0,Este,Carlos Méndez
+1136,2024-01-20,Router WiFi,Redes,7,88.53,619.71,Oeste,María López
+1055,2024-01-20,Mouse Logitech,Accesorios,7,25.9,181.3,Centro,Lucía Rodríguez
+1022,2024-01-20,Memoria RAM 16GB,Componentes,9,73.14,658.26,Centro,Ana García
+1158,2024-01-20,Cable HDMI,Accesorios,2,13.06,26.12,Sur,Pedro Sánchez
+1073,2024-01-20,Cable HDMI,Accesorios,3,13.03,39.09,Sur,Carlos Méndez
+1131,2024-01-21,Auriculares Bluetooth,Audio,1,67.27,67.27,Oeste,Ana García
+1164,2024-01-21,Teclado Mecánico,Accesorios,5,87.78,438.9,Norte,Ana García
+1000,2024-01-21,Mouse Logitech,Accesorios,1,26.12,26.12,Sur,Carlos Méndez
+1099,2024-01-21,Cable HDMI,Accesorios,1,12.99,12.99,Norte,Juan Pérez
+1042,2024-01-21,Router WiFi,Redes,2,86.05,172.1,Este,Ana García
+1080,2024-01-21,Tablet Samsung,Computadoras,2,458.08,916.16,Centro,María López
+1117,2024-01-21,Disco SSD 1TB,Almacenamiento,3,124.4,373.2,Sur,Ana García
+1023,2024-01-22,Cable HDMI,Accesorios,2,12.73,25.46,Centro,María López
+1090,2024-01-22,Disco SSD 1TB,Almacenamiento,3,121.39,364.17,Este,Juan Pérez
+1012,2024-01-22,Webcam HD,Accesorios,2,45.49,90.98,Sur,Lucía Rodríguez
+1034,2024-01-22,Router WiFi,Redes,6,89.44,536.64,Centro,Juan Pérez
+1181,2024-01-23,Teclado Mecánico,Accesorios,5,85.43,427.15,Centro,Juan Pérez
+1005,2024-01-23,Disco SSD 1TB,Almacenamiento,6,117.33,703.98,Sur,María López
+1098,2024-01-23,Cable HDMI,Accesorios,7,12.49,87.43,Sur,Carlos Méndez
+1184,2024-01-23,Webcam HD,Accesorios,7,46.51,325.57,Oeste,Carlos Méndez
+1108,2024-01-23,Teclado Mecánico,Accesorios,4,81.3,325.2,Oeste,María López
+1014,2024-01-23,Tablet Samsung,Computadoras,1,458.31,458.31,Norte,Carlos Méndez
+1083,2024-01-24,Mousepad Gaming,Accesorios,6,17.89,107.34,Centro,Ana García
+1188,2024-01-24,Webcam HD,Accesorios,10,45.36,453.6,Oeste,Carlos Méndez
+1013,2024-01-24,"Monitor LG 27""",Monitores,2,348.68,697.36,Este,Pedro Sánchez
+1186,2024-01-24,Hub USB-C,Accesorios,3,36.27,108.81,Este,Juan Pérez
+1195,2024-01-24,Teclado Mecánico,Accesorios,7,88.15,617.05,Sur,Ana García
+1075,2024-01-24,Hub USB-C,Accesorios,6,35.99,215.94,Oeste,Pedro Sánchez
+1086,2024-01-24,Cable HDMI,Accesorios,4,12.33,49.32,Norte,Pedro Sánchez
+1068,2024-01-24,Memoria RAM 16GB,Componentes,9,76.54,688.86,Centro,Ana García
+1133,2024-01-24,Tablet Samsung,Computadoras,3,439.65,1318.95,Centro,Juan Pérez
+1018,2024-01-24,Tablet Samsung,Computadoras,3,439.32,1317.96,Centro,Juan Pérez
+1024,2024-01-25,Router WiFi,Redes,6,86.5,519.0,Oeste,Carlos Méndez
+1176,2024-01-25,Disco SSD 1TB,Almacenamiento,9,123.9,1115.1,Norte,Pedro Sánchez
+1156,2024-01-25,Tablet Samsung,Computadoras,2,447.77,895.54,Oeste,María López
+1031,2024-01-25,Tablet Samsung,Computadoras,1,433.28,433.28,Oeste,Lucía Rodríguez
+1119,2024-01-25,Hub USB-C,Accesorios,7,34.22,239.54,Oeste,María López
+1026,2024-01-25,Teclado Mecánico,Accesorios,9,88.51,796.59,Este,Pedro Sánchez
+1045,2024-01-26,Micrófono USB,Audio,9,52.79,475.11,Centro,Ana García
+1040,2024-01-26,Disco SSD 1TB,Almacenamiento,4,115.13,460.52,Oeste,María López
+1092,2024-01-26,Impresora HP,Impresoras,10,182.78,1827.8,Oeste,Juan Pérez
+1074,2024-01-26,Mousepad Gaming,Accesorios,3,18.69,56.07,Norte,Carlos Méndez
+1141,2024-01-26,Laptop Dell XPS,Computadoras,1,1175.31,1175.31,Oeste,Pedro Sánchez
+1170,2024-01-27,Webcam HD,Accesorios,10,42.93,429.3,Sur,Juan Pérez
+1103,2024-01-27,Cable HDMI,Accesorios,9,12.41,111.69,Centro,Juan Pérez
+1120,2024-01-27,Mouse Logitech,Accesorios,8,24.27,194.16,Centro,Ana García
+1183,2024-01-27,Teclado Mecánico,Accesorios,8,88.68,709.44,Este,Lucía Rodríguez
+1015,2024-01-27,Laptop Dell XPS,Computadoras,2,1188.14,2376.28,Norte,Carlos Méndez
+1177,2024-01-28,Tablet Samsung,Computadoras,2,446.1,892.2,Sur,Lucía Rodríguez
+1194,2024-01-28,Mouse Logitech,Accesorios,8,24.48,195.84,Oeste,Ana García
+1162,2024-01-28,Memoria RAM 16GB,Componentes,2,76.41,152.82,Este,Pedro Sánchez
+1077,2024-01-28,Laptop Dell XPS,Computadoras,2,1166.69,2333.38,Oeste,María López
+1053,2024-01-28,Teclado Mecánico,Accesorios,2,85.81,171.62,Sur,Juan Pérez
+1112,2024-01-28,Hub USB-C,Accesorios,7,35.13,245.91,Centro,Lucía Rodríguez
+1157,2024-01-28,Impresora HP,Impresoras,7,176.5,1235.5,Centro,Ana García
+1076,2024-01-28,Cable HDMI,Accesorios,4,12.21,48.84,Norte,Juan Pérez
+1097,2024-01-28,Mousepad Gaming,Accesorios,2,17.92,35.84,Centro,Carlos Méndez
+1150,2024-01-28,Mousepad Gaming,Accesorios,8,17.28,138.24,Norte,Lucía Rodríguez
+1107,2024-01-29,Tablet Samsung,Computadoras,1,433.73,433.73,Sur,Juan Pérez
+1168,2024-01-29,Disco SSD 1TB,Almacenamiento,6,121.24,727.44,Norte,Ana García
+1110,2024-01-29,Mousepad Gaming,Accesorios,10,18.8,188.0,Norte,Lucía Rodríguez
+1017,2024-01-29,Hub USB-C,Accesorios,8,33.75,270.0,Sur,Carlos Méndez
+1088,2024-01-29,Webcam HD,Accesorios,9,44.14,397.26,Oeste,María López
+1019,2024-01-29,Impresora HP,Impresoras,7,177.52,1242.64,Sur,Lucía Rodríguez
+1071,2024-01-29,Hub USB-C,Accesorios,1,36.4,36.4,Sur,Pedro Sánchez
+1113,2024-01-29,"Monitor LG 27""",Monitores,4,340.18,1360.72,Oeste,Juan Pérez
+1104,2024-01-29,Teclado Mecánico,Accesorios,8,84.58,676.64,Sur,Pedro Sánchez
+1008,2024-01-30,Disco SSD 1TB,Almacenamiento,2,120.62,241.24,Centro,María López
+1127,2024-01-30,Disco SSD 1TB,Almacenamiento,7,125.3,877.1,Sur,Ana García
+1192,2024-01-30,Mousepad Gaming,Accesorios,7,17.79,124.53,Sur,Juan Pérez
+1039,2024-01-30,Hub USB-C,Accesorios,10,35.27,352.7,Sur,Juan Pérez
+1016,2024-01-30,Impresora HP,Impresoras,6,174.83,1048.98,Oeste,Juan Pérez
+1087,2024-01-30,Auriculares Bluetooth,Audio,10,63.79,637.9,Norte,Pedro Sánchez
+1060,2024-01-30,Auriculares Bluetooth,Audio,2,67.47,134.94,Este,María López
+1033,2024-01-30,Tablet Samsung,Computadoras,3,458.54,1375.62,Este,Juan Pérez
+1101,2024-01-30,Micrófono USB,Audio,2,54.76,109.52,Oeste,Pedro Sánchez
+1198,2024-01-31,Auriculares Bluetooth,Audio,8,67.42,539.36,Norte,Lucía Rodríguez
+1081,2024-01-31,Laptop Dell XPS,Computadoras,1,1245.24,1245.24,Este,Carlos Méndez
+1193,2024-01-31,Laptop Dell XPS,Computadoras,1,1200.27,1200.27,Centro,María López
+1028,2024-01-31,Mousepad Gaming,Accesorios,9,18.75,168.75,Centro,María López
+1122,2024-01-31,"Monitor LG 27""",Monitores,2,361.87,723.74,Centro,Carlos Méndez
+1121,2024-01-31,Auriculares Bluetooth,Audio,4,65.98,263.92,Norte,Ana García
