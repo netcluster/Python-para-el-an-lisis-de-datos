@@ -1,0 +1,5 @@
+id_producto,nombre_producto,categoria,margen_porcentaje
+1,Laptop Dell XPS,Computadoras,18
+2,Mouse Logitech,Periféricos,35
+3,Teclado Mecánico,Periféricos,28
+4,"Monitor LG 27""",Monitores,22

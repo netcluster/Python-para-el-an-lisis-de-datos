@@ -1,0 +1,9 @@
+id_venta,id_producto,vendedor,cantidad,monto_total
+101,1,Ana López,2,2400
+102,2,Carlos Ruiz,1,850
+103,3,Ana López,3,450
+104,1,María Torres,1,1200
+105,4,Carlos Ruiz,5,1250
+106,2,Ana López,2,1700
+107,5,María Torres,1,3200
+108,3,Carlos Ruiz,2,300
