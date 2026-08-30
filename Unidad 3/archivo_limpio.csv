@@ -1,0 +1,11 @@
+﻿id_producto,nombre,categoria,precio,stock,peso_kg,calificacion,fecha_ingreso,pais_origen,anio_ingreso,mes_ingreso
+101,Laptop Hp,Laptops,1200.5,15,2.5,4.5,2024-05-15,AR,2024,5
+102,Mouse Logitech,Accesorios,25.0,120,0.15,4.2,2024-06-15,CL,2024,6
+103,Teclado Mecanico,Accesorios,89.9,45,0.8,Sin calificación,2024-07-20,CO,2024,7
+104,Monitor Samsung,Monitores,570.58,0,0.8,3.8,2024-10-08,AR,2024,10
+106,Laptop Dell,Laptops,1350.0,22,2.3,4.7,2024-12-09,AR,2024,12
+107,Auriculares Sony,Accesorios,45.5,80,0.25,4.0,2024-10-20,CL,2024,10
+108,Tablet Samsung,Tablets,650.0,35,0.55,4.3,2024-05-11,CO,2024,5
+109,Laptop Lenovo,Laptops,1100.0,12,2.4,Sin calificación,2024-11-15,AR,2024,11
+110,Laptop Lenovo,Laptops,1100.0,12,2.4,Sin calificación,2024-11-15,AR,2024,11
+111,Webcam Logitech,Accesorios,55.0,95,0.18,3.9,2024-01-12,CL,2024,1

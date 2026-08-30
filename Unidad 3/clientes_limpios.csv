@@ -1,0 +1,10 @@
+id_cliente,nombre,edad,segmento,ingresos_mensuales,ciudad,fecha_registro,anio,mes,dia,dia_semana,score_riesgo
+1,Ana,25.0,Silver,1500.0,Madrid,2024-10-01,2024.0,10.0,1.0,Martes,0.1
+2,Carlos,40.0,Gold,2500.5,Barcelona,2024-02-15,2024.0,2.0,15.0,Jueves,0.3
+2,Carlos,40.0,Gold,2500.5,Barcelona,2024-02-15,2024.0,2.0,15.0,Jueves,0.3
+3,María,,Premium,3200.0,Madrid,2024-03-10,2024.0,3.0,10.0,Domingo,0.95
+4,,17.0,Desconocido,500.0,MADRID,2024-01-04,2024.0,1.0,4.0,Jueves,-0.2
+5,Juan,80.0,,,Valencia,2024-05-04,2024.0,5.0,4.0,Sábado,1.5
+6,Lucia,35.0,Gold,1800.0,Barcelona,2024-04-28,2024.0,4.0,28.0,Domingo,0.5
+6,Lucia,35.0,Gold,1800.0,Barcelona,,,,,,0.5
+,Ana,25.0,Silver,1500.0,Madrid,2024-10-05,2024.0,10.0,5.0,Sábado,0.1
