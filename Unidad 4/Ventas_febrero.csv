@@ -1,0 +1,5 @@
+id_venta,fecha,producto,cantidad,precio_unitario,cliente,region,estado
+6,2024-02-03,Laptop ,1,1200.00,Tech Solutions,Sur,Completado
+7,2024-02-14,Webcam,2,95.00,Global Enterprise,Este  ,Completado
+8,2024-02-22,Mouse ,3,25.50,Local Shop,Oeste,Pendiente
+9,2024-02-28,Monitor,1,350.00,ACME Corp, Norte,Completado

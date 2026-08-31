@@ -1,0 +1,6 @@
+id_venta,fecha,producto,cantidad,precio_unitario,cliente,region,estado
+1,2024-01-05,Laptop  ,2,1200.00,  ACME Corp,Norte, Completado
+2,2024-01-12,Mouse,5,25.50,Tech Solutions,Sur, Completado
+3,2024-01-18,Teclado ,3,85.00, Global Enterprise, Este ,Pendiente
+4,2024-01-25,Monitor ,1,350.00,Local Shop,Oeste ,Completado
+5,2024-01-30,Auriculares ,2,65.00,ACME Corp,Norte,Cancelado
