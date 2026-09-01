@@ -1,0 +1,19 @@
+id_venta,fecha,producto,cantidad,precio_unitario,cliente,region,estado,categoria,margen_ganancia
+1,2024-01-05,Laptop,2,1200.0,ACME Corp,Norte,Completado,Computadoras,0.25
+2,2024-01-12,Mouse,5,25.5,Tech Solutions,Sur,Completado,Accesorios,0.4
+3,2024-01-18,Teclado,3,85.0,Global Enterprise,Este,Pendiente,Accesorios,0.35
+4,2024-01-25,Monitor,1,350.0,Local Shop,Oeste,Completado,Monitores,0.2
+5,2024-01-30,Auriculares,2,65.0,ACME Corp,Norte,Cancelado,Accesorios,0.3
+6,2024-02-03,Laptop,1,1200.0,Tech Solutions,Sur,Completado,Computadoras,0.25
+7,2024-02-14,Webcam,2,95.0,Global Enterprise,Este,Completado,Accesorios,0.35
+8,2024-02-22,Mouse,3,25.5,Local Shop,Oeste,Pendiente,Accesorios,0.4
+9,2024-02-28,Monitor,1,350.0,ACME Corp,Norte,Completado,Monitores,0.2
+1,2024-01-05,Laptop,2,1200.0,ACME Corp,Norte,Completado,Computadoras,0.25
+2,2024-01-12,Mouse,5,25.5,Tech Solutions,Sur,Completado,Accesorios,0.4
+3,2024-01-18,Teclado,3,85.0,Global Enterprise,Este,Pendiente,Accesorios,0.35
+4,2024-01-25,Monitor,1,350.0,Local Shop,Oeste,Completado,Monitores,0.2
+5,2024-01-30,Auriculares,2,65.0,ACME Corp,Norte,Cancelado,Accesorios,0.3
+6,2024-02-03,Laptop,1,1200.0,Tech Solutions,Sur,Completado,Computadoras,0.25
+7,2024-02-14,Webcam,2,95.0,Global Enterprise,Este,Completado,Accesorios,0.35
+8,2024-02-22,Mouse,3,25.5,Local Shop,Oeste,Pendiente,Accesorios,0.4
+9,2024-02-28,Monitor,1,350.0,ACME Corp,Norte,Completado,Monitores,0.2

@@ -1,0 +1,15 @@
+2026-08-31 21:05:36 - utils - INFO - INICIANDO PIPELINE ETL - Fecha de proceso: 2026-08-31 - 2026-08-31 21:05:36
+2026-08-31 21:05:36 - utils - INFO - Cargando archivos desde: data\raw
+2026-08-31 21:05:37 - utils - INFO - Consultando API de tipo de cambio...
+2026-08-31 21:05:37 - utils - INFO - Transformando y unificando datos...
+2026-08-31 21:05:37 - utils - INFO - Guardando resultados en: data\processed
+2026-08-31 21:05:37 - utils - INFO - PIPELINE ETL FINALIZADO CON ÉXITO
+2026-08-31 21:14:47 - utils - INFO - INICIANDO PIPELINE ETL - Fecha de proceso: 2026-15-06 - 2026-08-31 21:14:47
+2026-08-31 21:14:47 - utils - INFO - Cargando archivos desde: Entrada
+2026-08-31 21:14:47 - utils - ERROR - Error en la etapa de EXTRACT: No se encontraron archivos con patrón: *.csv
+2026-08-31 21:18:46 - utils - INFO - INICIANDO PIPELINE ETL - Fecha: 2024-02-15 | Input: cualquier_cosa | Output: resultado_final
+2026-08-31 21:18:46 - utils - INFO - Cargando archivos CSV desde: D:\Mis Documentos\VARIOS\SERMIG\Cursos\Eclass\Python para el análisis de datos\Unidad 4\proyecto_etl\data\raw
+2026-08-31 21:18:46 - utils - INFO - Consultando API de tipo de cambio...
+2026-08-31 21:18:47 - utils - INFO - Transformando datos...
+2026-08-31 21:18:47 - utils - INFO - Guardando resultados en: D:\Mis Documentos\VARIOS\SERMIG\Cursos\Eclass\Python para el análisis de datos\Unidad 4\proyecto_etl\data\processed
+2026-08-31 21:18:47 - utils - INFO - PIPELINE ETL FINALIZADO CON ÉXITO
