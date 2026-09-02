@@ -8,3 +8,13 @@
 2026-08-31 21:51:57,280 [INFO] Guardando ventas combinadas en: D:\Mis Documentos\VARIOS\SERMIG\Cursos\Eclass\Python para el análisis de datos\Unidad 4\proyecto_etl\data\processed\ventas_retail_andino_combinadas.csv
 2026-08-31 21:51:57,284 [INFO] Guardando tasas de cambio en: D:\Mis Documentos\VARIOS\SERMIG\Cursos\Eclass\Python para el análisis de datos\Unidad 4\proyecto_etl\data\processed\tasas_cambio.csv
 2026-08-31 21:51:57,285 [INFO] PIPELINE ETL FINALIZADO CON ÉXITO
+2026-09-02 08:50:33,120 [INFO] ============================================================
+2026-09-02 08:50:33,121 [INFO] INICIANDO PIPELINE ETL - RETAIL ANDINO (Fecha: 2026-09-02)
+2026-09-02 08:50:33,122 [INFO] Extrayendo archivos CSV de ventas desde: D:\Mis Documentos\VARIOS\SERMIG\Cursos\Eclass\Python para el análisis de datos\Unidad 4\proyecto_etl\data\raw
+2026-09-02 08:50:33,147 [INFO] Extrayendo catálogo de productos en Excel...
+2026-09-02 08:50:33,916 [INFO] Consultando API de tipo de cambio USD...
+2026-09-02 08:50:34,054 [INFO] Limpiando espacios en blanco en datos de ventas y catálogo...
+2026-09-02 08:50:34,068 [INFO] Combinando ventas con catálogo de productos...
+2026-09-02 08:50:34,084 [INFO] Guardando ventas combinadas en: D:\Mis Documentos\VARIOS\SERMIG\Cursos\Eclass\Python para el análisis de datos\Unidad 4\proyecto_etl\data\processed\ventas_retail_andino_combinadas.csv
+2026-09-02 08:50:34,118 [INFO] Guardando tasas de cambio en: D:\Mis Documentos\VARIOS\SERMIG\Cursos\Eclass\Python para el análisis de datos\Unidad 4\proyecto_etl\data\processed\tasas_cambio.csv
+2026-09-02 08:50:34,127 [INFO] PIPELINE ETL FINALIZADO CON ÉXITO
